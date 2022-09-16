@@ -31,7 +31,8 @@
     "@reduxjs/toolkit": "1.7.2",
     "@react-native-community/datetimepicker": "4.0.0",
     "@react-native-picker/picker": "2.2.1",
-    "expo-secure-store": "~11.1.0"
+    "expo-secure-store": "~11.1.0",
+    "expo-notifications": "~0.14.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9"
